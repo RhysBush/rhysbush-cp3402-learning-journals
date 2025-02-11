@@ -19,4 +19,4 @@
 
 
 <h2>Career/Employability/Learning Insights</h2>
-<p></p>
+<p>I found that working through problems until the outome meets all expectations is not a viable strategy in a university or workplace setting. Employers would rather an output from their employee, even if incomplete than a non-submission. This is also true in a university setting between the student and lecturer, and as such I will use the second of seven principles from "The seven habits of highly effective people: Begin with the end in mind.</p>
