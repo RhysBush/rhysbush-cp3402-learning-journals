@@ -2,10 +2,9 @@
 
 <h2>Learning Activities and Resources</h2>
 <p>Google Cloud</p>
-<ul>
-    <li>[How to install Joomla in Google Cloud] (https://www.youtube.com/watch?v=Br6_GFXoYaI)</li>
-    <li>[Reserve or create static external IP and assign it to Virtual Machine] (https://www.youtube.com/watch?v=zaBNPMtb9g0)</li>
-</ul>
+
+- [How to install Joomla in Google Cloud] (https://www.youtube.com/watch?v=Br6_GFXoYaI)</li>
+- [Reserve or create static external IP and assign it to Virtual Machine] (https://www.youtube.com/watch?v=zaBNPMtb9g0)
 
 <p>Joomla</p>
 <ul>
