@@ -15,7 +15,7 @@
 <p>Approximately 5 hours of explicit learning.</p>
 
 <h2>Content Insights</h2>
-<p></p>
+<p>I learnt how Joomla separates its form and functions using the administrator panel. By separating the use of articles and modules separate from the website template HTML/CSS/JS/PHP, it significant reduces the time taken to add or remove content from a website.</p>
 
 
 <h2>Career/Employability/Learning Insights</h2>
