@@ -1,11 +1,9 @@
 <h1>Week 03 Learning Journal - Rhys Bush</h1>
 
 <h2>Learning Activities and Resources</h2>
-<p></p>
-<ul>
-    <li>[https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database](https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database)</li>
-    <li>[https://www.linkedin.com/learning/wordpress-essential-training-2023](https://www.linkedin.com/learning/wordpress-essential-training-2023)</li>
-</ul>
+
+- [https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database](https://www.hostinger.com/tutorials/how-to-change-wordpress-urls-in-mysql-database)
+- [https://www.linkedin.com/learning/wordpress-essential-training-2023](https://www.linkedin.com/learning/wordpress-essential-training-2023)
 
 <h2>Estimated Hours</h2>
 <p>Approximately 10 hours.</p>
