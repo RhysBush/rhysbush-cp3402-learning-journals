@@ -1,13 +1,13 @@
 <h1>Week 04 Learning Journal - Rhys Bush</h1>
 
 <h2>Learning Activities and Resources</h2>
-<p>[Video demonstration of creating a WordPress web server using XAMPP in Ubuntu.](https://www.youtube.com/watch?v=KkNg1yCJGz4)</p>
+- [Video demonstration of creating a WordPress web server using XAMPP in Ubuntu.](https://www.youtube.com/watch?v=KkNg1yCJGz4)
 
 <h2>Estimated Hours</h2>
 <p>Approximately 6 hours.</p>
 
 <h2>Content Insights</h2>
-<p>Creating a website on a localhost has its own advantages and drawbacks in comparison to modifying the production server directly. Using a Unix/Linux virtual machine instead of a Windows-based solution provides experience with the [most popular web server operating system.](https://w3techs.com/technologies/cross/web_server/operating_system) Local development removes the initial cost of website hosting when developing a website.</p>
+Creating a website on a localhost has its own advantages and drawbacks in comparison to modifying the production server directly. Using a Unix/Linux virtual machine instead of a Windows-based solution provides experience with the [most popular web server operating system.](https://w3techs.com/technologies/cross/web_server/operating_system) Local development removes the initial cost of website hosting when developing a website.
 
 
 <h2>Career/Employability/Learning Insights</h2>
