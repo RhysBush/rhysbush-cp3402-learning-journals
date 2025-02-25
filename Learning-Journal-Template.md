@@ -2,10 +2,6 @@
 
 <h2>Learning Activities and Resources</h2>
 <p></p>
-<ul>
-    <li></li>
-    <li></li>
-</ul>
 
 <h2>Estimated Hours</h2>
 <p></p>
