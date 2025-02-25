@@ -1,7 +1,7 @@
 <h1>Week 04 Learning Journal - Rhys Bush</h1>
 
 ## Learning Activities and Resources
-    [Video demonstration of creating a WordPress web server using XAMPP in Ubuntu.](https://www.youtube.com/watch?v=KkNg1yCJGz4)
+[Video demonstration of creating a WordPress web server using XAMPP in Ubuntu.](https://www.youtube.com/watch?v=KkNg1yCJGz4)
 
 ## Estimated Hours
 <p>Approximately 6 hours.</p>
