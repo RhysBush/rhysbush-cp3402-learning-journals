@@ -7,7 +7,7 @@
 <p>Approximately 6 hours.</p>
 
 ## Content Insights
-    Creating a website on a localhost has its own advantages and drawbacks in comparison to modifying the production server directly. Using a Unix/Linux virtual machine instead of a Windows-based solution provides experience with the [most popular web server operating system](https://w3techs.com/technologies/cross/web_server/operating_system). Local development removes the initial cost of website hosting when developing a website.
+Creating a website on a localhost has its own advantages and drawbacks in comparison to modifying the production server directly. Using a Unix/Linux virtual machine instead of a Windows-based solution provides experience with the [most popular web server operating system](https://w3techs.com/technologies/cross/web_server/operating_system). Local development removes the initial cost of website hosting when developing a website.
 
 
 <h2>Career/Employability/Learning Insights</h2>
